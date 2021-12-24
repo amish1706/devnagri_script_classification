@@ -1,2 +1,2 @@
 # Devnagri Script Classification
-Devnagri Script Classification of 36 characters using ResNet34
+Devnagri Script Classification of 36 character classes using ResNet34
